@@ -1,0 +1,9 @@
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\bin\Debug\lab2_tsp.net.exe.config
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\bin\Debug\lab2_tsp.net.exe
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\bin\Debug\lab2_tsp.net.pdb
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\obj\Debug\lab2_tsp.net.csprojAssemblyReference.cache
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\obj\Debug\lab2_tsp.net.Form1.resources
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\obj\Debug\lab2_tsp.net.Properties.Resources.resources
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\obj\Debug\lab2_tsp.net.csproj.GenerateResource.cache
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\obj\Debug\lab2_tsp.net.exe
+C:\Users\ALEXANDRU\source\repos\lab2_tsp.net\lab2_tsp.net\obj\Debug\lab2_tsp.net.pdb
