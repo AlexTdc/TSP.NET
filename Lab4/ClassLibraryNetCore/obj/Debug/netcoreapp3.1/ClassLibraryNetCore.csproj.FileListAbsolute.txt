@@ -1,0 +1,20 @@
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.deps.json
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.csprojAssemblyReference.cache
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfoInputs.cache
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfo.cs
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.json
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.dev.json
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+D:\An3\Sem2\TSP Net\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.deps.json
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.json
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.dev.json
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.csprojAssemblyReference.cache
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfoInputs.cache
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfo.cs
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+D:\Grafica_pe_calculator\Lab4\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
